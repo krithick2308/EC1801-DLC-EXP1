@@ -36,7 +36,7 @@ module tb;
     // Instantiate the design under test (DUT)
     fun uut (
         .A(A),
-        .B(B),
+        .B(B), 
         .F(F)
     );
 
